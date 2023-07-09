@@ -107,7 +107,7 @@ header{
     margin-top: 70px;
 }
 
-/*----------body section two styles----------*/
+/*----------body section three styles----------*/
 
 .body-sec-three{
     height: 300px;
@@ -140,8 +140,50 @@ header{
     padding: 12px;
     border: 0;
     margin-top: 10px;
+    border-radius: 10px;
 }
 
 
 /*footer section styles*/
+
+.foot-sec{
+    height: 350px;
+    margin-top: 300px;
+    padding-top: 100px;
+    background: #151414;
+    display: flex;
+    justify-content: space-around;
+}
+
+.foot-title{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.foot-des{
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.foot-title-two{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.foot-email{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+
+
 
