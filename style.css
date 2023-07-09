@@ -97,10 +97,6 @@ header{
     margin: 10px 10% 0 10%;
 } 
 
-.body-sec-title{
-    text-align: center;
-}
-
 .my-plans{
     display: flex;
     justify-content: space-around;
