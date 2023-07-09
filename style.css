@@ -107,6 +107,21 @@ header{
     margin-top: 70px;
 }
 
+.plans{
+    box-shadow: 2px 2px 17px grey;
+    border-radius: 50%;
+    padding: 40px;
+    background-color: bisque;
+}
+
+#web-icon{
+    margin-left: 25px;
+}
+
+#smoke-icon{
+    margin-left: 10px;
+}
+
 /*----------body section three styles----------*/
 
 .body-sec-three{
@@ -148,7 +163,7 @@ header{
 
 .foot-sec{
     height: 350px;
-    margin-top: 300px;
+    margin-top: 200px;
     padding-top: 100px;
     background: #151414;
     display: flex;
